@@ -5,10 +5,11 @@ $rep = $argv[2];
 
 if (!empty($user) && !empty($rep)):
    `mkdir $rep`;
+   `cp gitignore.txt README.md LICENSE LICENSES $rep/`;
    `cd $rep`;
    `git init`;
    `git remote add origin ssh://git@bitbucket.org/$user/$rep.git`;
-   `cat gitignore.txt >> .gitignore`;
+   `mv gitignore.txt .gitignore`;
    `git add .gitignore`;
    `git add README.md`;
    `git add LICENSE`;

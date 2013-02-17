@@ -1,29 +1,25 @@
-ASP.NET EVENTS CALENDAR 1.0
+REPOSITORY README FILE
 -------
-Learn more about ASP.NET and download this Website project file built in Visual Studio 2010 Express Web Developer IDE. 
-Project download includes the following functionalities:
-* Dynamic Data Website
-* LINQ to SQL
-* SQL Server Database Items
-* Datasource Controls
-* Model Registrations
-* jQuery
+Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
 
 For up-to-date installation and setup notes, visit the FAQ:
-http://lab.thesoftwarepeople.com/tracker/wiki/opensource-aec-MainPage
+http://lab.thesoftwarepeople.com/tracker/wiki/REPOSITORY-MainPage
 
+* GENERAL INSTALLATION NOTES *
 
-*GENERAL INSTALLATION NOTES*
+- Nullam quis risus eget urna mollis ornare vel eu leo.
+- Nullam quis risus eget urna mollis ornare vel eu leo.
+- Nullam quis risus eget urna mollis ornare vel eu leo.
+- Nullam quis risus eget urna mollis ornare vel eu leo.
 
-- Download from repository
-- Open Projects folder and copy myCalender to your Project folder for Visual Studio 2010 Express Visual Web Developer
-- Open Websites folder and copy myCalender to your Websites folder for Visual Studio 2010 Express Visual Web Developer
-- Click on the myCalendar.sln in the Project/ folder
-- Once Visual Web Developer loads, click on Debug -> Build Website
-- After build, right click on Default.aspx and Show in Browser
+* USING THE MODULE *
 
-*REPORTING ISSUES*
+- Nullam quis risus eget urna mollis ornare vel eu leo.
+- Nullam quis risus eget urna mollis ornare vel eu leo.
+- Nullam quis risus eget urna mollis ornare vel eu leo.
 
-Thank you for downloading the ASP.NET Events Calendar 1.0
+* REPORTING ISSUES *
+
+Thank you for downloading the REPOSITORY 1.0
 If you find any issues, please report them in the issue tracker on our website:
-http://lab.thesoftwarepeople.com/tracker/opensource-aec
+http://lab.thesoftwarepeople.com/tracker/REPOSITORY
