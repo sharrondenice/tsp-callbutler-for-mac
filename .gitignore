@@ -9,3 +9,4 @@ _archive
 _design
 *.bak
 *.vpp~*
+*.userprefs
